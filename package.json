@@ -1,0 +1,23 @@
+{
+  "name": "template-project-css",
+  "version": "1.0.0",
+  "description": "Template css from scratch with fontawesome, font=Raleway and personal config css",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiraen/template-project-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiraen/template-project-css/issues"
+  },
+  "homepage": "https://github.com/Kiraen/template-project-css#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
